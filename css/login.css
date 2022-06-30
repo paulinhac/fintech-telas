@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+
+body{
+	background-color: #DCDCDC;
+	font-family: 'Oswald', sans-serif;
+}
+.navbar{
+	background-color: #228B22;
+	font-family: 'Oswald', sans-serif;
+	color: #fff;
+}
+
+.formulario{
+	margin-top: 10%;
+	padding: 10%;
+}
+
+.form-group{
+	color: #228B22;
+	font-weight: bold;
+	font-size: x-large;
+}
+
+.btn{
+	background-color: #228B22;
+	font-size: x-large;
+}
+
+.links{
+	font-size: large;
+	color: #228B22;
+	padding: 10%;
+	align-content: center;
+	text-align: center;
+}
+
+a{
+	color: #228B22;
+}
+
+
+
+
+
